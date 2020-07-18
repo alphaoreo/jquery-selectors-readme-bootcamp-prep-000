@@ -19,6 +19,6 @@ return $('.pics')
 }
 
 function firstListItem(){
-  var item = $('ul li:first-child')
+  var item = $('#pic-list:first-child')
   return item
 }
